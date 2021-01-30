@@ -1,0 +1,25 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "zoom-clone",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvineet02/zoom-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rvineet02/zoom-clone/issues"
+  },
+  "homepage": "https://github.com/rvineet02/zoom-clone#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}

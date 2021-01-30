@@ -9,3 +9,10 @@
 - messaging 
 - mute button 
 - video toggle on/off 
+- Add more stuff 
+
+
+-------
+
+Using EJS to get variables from the front end to the back end 
+Using UUID to make unique IDs for each room
