@@ -16,3 +16,5 @@
 
 Using EJS to get variables from the front end to the back end 
 Using UUID to make unique IDs for each room
+Socket io is for synchronus real time communication; with socket io the server doesnt need to wait for user requests to start processes
+PeerJS to send streams between different people 
