@@ -24,4 +24,4 @@ PeerJS to send streams between different people
 npm install heroku 
 heroku create 
 git push heroku main
-
+heroku ps:scale web=1
